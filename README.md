@@ -2,4 +2,4 @@
 
 library(remotes)
 
-remotes::install_github("xiaoming-room/easyFAERShelp")
+remotes::install_github("xiaoming-room/easyDSM_product")
